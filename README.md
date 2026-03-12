@@ -9,10 +9,12 @@
 ![My Skills](https://skillicons.dev/icons?i=azure,ai,terraform,ansible,java,spring,docker,kubernetes,githubactions,linux&theme=dark)
 
 <h3 align="left">Connect with me:</h3>
+
+[![Thenullrabbit](https://img.shields.io/badge/🐇%20Thenullrabbit-contact@thenullrabbit.com-8e44ad?style=for-the-badge)](mailto:contact@thenullrabbit.com)
+
 <p align="left">
 <a href="https://github.com/dev1n0ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dev1n0ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:contact@thenullrabbit.com"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fddobrin&label=%F0%9F%8F%A1%20visitors&labelColor=%232ccce4&countColor=%23dce775&style=flat-square)
