@@ -11,28 +11,31 @@
 <h3 align="left">Connect with me:</h3>
 
 <table>
-  <tr>
-    <td valign="middle">
-      <a href="https://github.com/dev1n0ps">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="32">
-      </a>
-    </td>
-    <td valign="middle">&nbsp;&nbsp;</td>
-    <td valign="middle">
-      <a href="https://linkedin.com/in/dev1n0ps">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32">
-      </a>
-    </td>
-    <td valign="middle">&nbsp;&nbsp;</td>
-    <td valign="middle">
-      <a href="mailto:contact@thenullrabbit.com">
-        <svg height="32" viewBox="0 0 100 100">
-          <circle cx="50" cy="50" r="48" fill="#8e44ad"/>
-          <image href="assets/icons/transparent/nullrabbit_48.png" x="18" y="18" width="64" height="64"/>
-        </svg>
-      </a>
-    </td>
-  </tr>
+<tr>
+
+<td>
+<a href="https://github.com/dev1n0ps">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="32">
+</a>
+</td>
+
+<td width="12"></td>
+
+<td>
+<a href="https://linkedin.com/in/dev1n0ps">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32">
+</a>
+</td>
+
+<td width="12"></td>
+
+<td>
+<a href="mailto:contact@thenullrabbit.com">
+<img src="assets/icons/white/nullrabbit_white_48.png" height="32">
+</a>
+</td>
+
+</tr>
 </table>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fddobrin&label=%F0%9F%8F%A1%20visitors&labelColor=%232ccce4&countColor=%23dce775&style=flat-square)
