@@ -18,7 +18,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="https://thenullrabbit.com/" target="_blank" rel="noopener noreferrer">
-<img align="center" src="assets/icons/white/nullrabbit_githubstyle_48.png" alt="TheNullRabbit" height="40" width="40" />
+<img align="center" src="assets/icons/githubstyle/nullrabbit_githubstyle_128.png" alt="TheNullRabbit" height="40" width="40" />
 </a>
 </p>
 
