@@ -13,7 +13,7 @@
 <a href="https://github.com/dev1n0ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dev1n0ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="mailto:contact@thenullrabbit.com">
-<img align="center" src="assets/icons/white/nullrabbit_white_48.png" alt="Email" height="30" width="40" />
+<img align="center" src="assets/icons/white/nullrabbit_white_48.png" alt="Email" height="40" width="40" />
 </a>
 </p>
 
