@@ -17,8 +17,8 @@
 <a href="https://linkedin.com/in/thenullrabbit" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="mailto:contact@thenullrabbit.com">
-<img align="center" src="assets/icons/white/nullrabbit_githubstyle_48.png" alt="Email" height="40" width="40" />
+<a href="https://thenullrabbit.com/" target="_blank" rel="noopener noreferrer">
+<img align="center" src="assets/icons/white/nullrabbit_githubstyle_48.png" alt="TheNullRabbit" height="40" width="40" />
 </a>
 </p>
 
