@@ -1,14 +1,31 @@
-### Hi there 👋
+## Hi, I'm TheNullRabbit ✨
+
 - I'm a Cloud & DevOps Engineer specializing in Azure.☁️
 - I design and build end-to-end, reliable, scalable cloud-native applications on Azure using Java, Spring Boot, Docker, Terraform and Kubernetes.🏗️
 - My focus is on infrastructure automation, platform engineering, and AI-driven operational efficiency.🌱
 - Driven by continuous learning and disciplined execution.🚀
 
-`✨ My skills ✨`
+## Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=azure,ai,terraform,ansible,java,spring,docker,kubernetes,githubactions,linux&theme=dark)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=dev1n0ps&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=dev1n0ps&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev1n0ps&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## Connect
 
 <p align="left">
 <a href="https://github.com/dev1n0ps" target="blank">
