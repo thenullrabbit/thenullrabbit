@@ -21,14 +21,14 @@
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=dev1n0ps&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=dev1n0ps&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev1n0ps&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=thenullrabbit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=thenullrabbit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thenullrabbit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Connect
 
 <p align="left">
-<a href="https://github.com/dev1n0ps" target="blank">
+<a href="https://github.com/thenullrabbit" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/thenullrabbit" target="blank">
