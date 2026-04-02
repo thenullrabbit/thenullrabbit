@@ -1,4 +1,4 @@
-## Hi, I'm TheNullRabbit ✨
+## Hey, I'm TheNullRabbit 👋
 
 - I'm a Cloud & DevOps Engineer specializing in Azure.☁️
 - I design and build end-to-end, reliable, scalable cloud-native applications on Azure using Java, Spring Boot, Docker, Terraform and Kubernetes.🏗️
