@@ -19,12 +19,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=thenullrabbit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=thenullrabbit&theme=dark&hide_border=false&v=1)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thenullrabbit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## Connect
 
 <p align="left">
