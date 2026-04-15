@@ -21,13 +21,11 @@
 
 ## Connect
 
-<table border="0" cellpadding="12">
-  <tr>
-    <td><a href="https://github.com/thenullrabbit" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="32" alt="GitHub" /></a></td>
-    <td><a href="https://linkedin.com/in/thenullrabbit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" /></a></td>
-    <td><a href="https://thenullrabbit.com/" target="_blank"><img src="assets/icons/githubstyle/nullrabbit_githubstyle_128.png" height="38" alt="thenullrabbit.com" /></a></td>
-  </tr>
-</table>
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thenullrabbit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thenullrabbit)
+[![Website](https://img.shields.io/badge/thenullrabbit.com-00FF41?style=for-the-badge&logo=rabbitmq&logoColor=black)](https://thenullrabbit.com/)
 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthenullrabbit&label=%F0%9F%8F%A1%20visitors&labelColor=%232ccce4&countColor=%23dce775&style=flat-square)
