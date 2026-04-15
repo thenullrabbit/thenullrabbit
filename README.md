@@ -25,5 +25,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thenullrabbit)
 [![Website](https://img.shields.io/badge/thenullrabbit.com-00FF41?style=for-the-badge&logo=rabbitmq&logoColor=black)](https://thenullrabbit.com/)
 
+<p>
+<a href="https://github.com/thenullrabbit" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thenullrabbit" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://thenullrabbit.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/githubstyle/nullrabbit_githubstyle_128.png" alt="thenullrabbit.com" height="40" width="40" /></a>
+</p>
+
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthenullrabbit&label=%F0%9F%8F%A1%20visitors&labelColor=%232ccce4&countColor=%23dce775&style=flat-square)
